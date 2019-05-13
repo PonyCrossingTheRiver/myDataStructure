@@ -1,0 +1,7 @@
+队列的实现
+    Queue<E>
+    void enqueue(E);
+    E dequeue();
+    E getFront();
+    int getSize();
+    boolean isEmpty();
